@@ -1,1 +1,1 @@
-This repisotry is dedicated to displaying the code that make up my website project for IT202 with professor Vohra. 
+This is the code for a full stack project that makes up an Inventory Website.
